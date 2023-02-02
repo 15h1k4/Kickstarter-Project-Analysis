@@ -5,16 +5,16 @@ This project involves the analysis of Kickstarter projects using MS Excel.
 
 **Data-** The data used in this project is a compilation of information on various Kickstarter projects. The variables included in the dataset are:
 
-*Unique project names
-*Category
-*Subcategory
-*Country
-*Launched date
-*Deadline date
-*Amount of money the creator needs to complete the project (USD)
-*Amount of money pledged by the crowd (USD)
-*Number of backers
-*Current condition the project is in (successful, failed, live, suspended, or canceled)
+-Unique project names
+-Category
+-Subcategory
+-Country
+-Launched date
+-Deadline date
+-Amount of money the creator needs to complete the project (USD)
+-Amount of money pledged by the crowd (USD)
+-Number of backers
+-Current condition the project is in (successful, failed, live, suspended, or canceled)
 
 **Methodology-** The following steps were part of the methodology utilised for this project:
 1. Data cleaning: To make sure the data was accurate and ready for analysis, it was cleaned.
