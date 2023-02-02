@@ -15,6 +15,8 @@ This project involves the analysis of Kickstarter projects using MS Excel.
 9. Number of backers
 10.Current condition the project is in (successful, failed, live, suspended, or canceled)
 
+**Tools Used-** Charts such as heatmap,bar chart, line chart, combo chart, column chart, scatter plot,pie chart, treemap; Functions such as Countif, If, Offset, Sequence, Unique, Sum; Pivot Tables and Pivot Chart; What If's Goal Seek; Conditional Formatting; Slicers, Filtering & Sorting.
+
 **Methodology-** The following steps were part of the methodology utilised for this project:
 1. Data cleaning: To make sure the data was accurate and ready for analysis, it was cleaned.
 2. Data analysis: Microsoft Excel's many tools and functionalities, such as pivot tables, charts, and statistical analysis, were used to examine the data.
