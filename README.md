@@ -29,3 +29,4 @@ This project involves the analysis of Kickstarter projects using MS Excel.
 **Conclusion-** This analysis offers insightful information about the elements that influence the success of Kickstarter campaigns. Creators can launch their own initiatives with greater confidence if they are aware of the variables that affect these projects' success.
 
 
+**Project and data link-** https://drive.google.com/drive/folders/1o70EupYuzeyKFTg_TqRJ48IyhWKOk4lj?usp=share_link
